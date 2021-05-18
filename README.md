@@ -4,4 +4,4 @@ This Projects are completed by me for self learning and hobby purposes.
 
 ## Contents
    ### Machine Learning
-	    - Titanic
+	    - Titanic - Machine Learning from Disaster
