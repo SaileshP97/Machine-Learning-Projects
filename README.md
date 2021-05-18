@@ -4,4 +4,5 @@ This Projects are completed by me for self learning and hobby purposes.
 
 ## Contents
    ### Machine Learning
-	    - Titanic - Machine Learning from Disaster
+	   > Titanic - Machine Learning from Disaster/titanic-competition.ipynb
+	      
