@@ -9,3 +9,6 @@ This Projects are completed by me for self learning and hobby purposes.
 
 
        - [MNIST - Number Recognition using CNN](https://github.com/SaileshP97/Machine-Learning-Projects/blob/ffdcd625a3a1da21a16f045e1261407171554a51/CNN_MNIST_Number%20recognition/CNN_MNIST.ipynb): The Data is been extracted from Tensorflow dataset. In this project i have used Convolutional neural network to Categorize the Number's image into correct Number Category. This project was made by me while doing a Course on Tensorflow.
+
+
+   -[California_Housing](https://github.com/SaileshP97/Machine-Learning-Projects/blob/2edff1db33749d19227cda555ab83de10cbb5e7c/California_Housing/california_housing.ipynb): The Data was provided during one of my course on DataScience. In this Project i need to predict the Sale Price of house using some features. To do so i used 4 different models. Linear Regression, ANN, Decision Tree Regression and Random Forest Regression. Out of this Random Forest performed better than rest.
