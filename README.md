@@ -12,3 +12,6 @@ This Projects are completed by me for self learning and hobby purposes.
 
 
        - [California_Housing](https://github.com/SaileshP97/Machine-Learning-Projects/blob/2edff1db33749d19227cda555ab83de10cbb5e7c/California_Housing/california_housing.ipynb): The Data was provided during one of my course on DataScience. In this Project i need to predict the Sale Price of house using some features. To do so i used 4 different models. Linear Regression, ANN, Decision Tree Regression and Random Forest Regression. Out of this Random Forest performed better than rest.
+
+
+     - [Credit Card Approver](https://github.com/SaileshP97/Machine-Learning-Projects/blob/cf74b138c161b6f2cd6cbb02dde957582452aeda/Credit%20Card%20Approver/credit-card-approver.ipynb): The Data Set has been downloaded from Kaggle. There were 2 data set one Application and credit record which is linked by ID. In this Project i used Random Forest Classifier to predict whether or not to approve Credit Card to a person depending on the details provided.
