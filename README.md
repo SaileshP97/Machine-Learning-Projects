@@ -16,4 +16,4 @@ This Projects are completed by me for self learning and hobby purposes.
 
      - [Credit Card Approver](https://github.com/SaileshP97/Machine-Learning-Projects/blob/cf74b138c161b6f2cd6cbb02dde957582452aeda/Credit%20Card%20Approver/credit-card-approver.ipynb): The Data Set has been downloaded from Kaggle. There were 2 data set one Application and credit record which is linked by ID. In this Project i used Random Forest Classifier to predict whether or not to approve Credit Card to a person depending on the details provided.
 
-     - [Credit Card Lead Prediction](
+     - [Credit Card Lead Prediction](https://github.com/SaileshP97/Machine-Learning-Projects/blob/0649e7688b874deeb947cfb05c909b58b4bd9901/Analytic%20Vidya%20Jobathon/Credit%20Card%20Lead%20Prediction.ipynb): This code was written during a competition in Analytics Vidya. We need to predict whether a person is interested in credit card or not. I used Deep learning to predict. My ROC was 0.8700320345.
