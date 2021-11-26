@@ -4,7 +4,7 @@ This Projects are completed by me for self learning and hobby purposes.
 
 ## Contents
 -   ### Machine Learning
--   
+	- [Next Word Prediction](https://github.com/SaileshP97/Machine-Learning-Projects/blob/1df5523d7a1c930814488c7cb12382a18686aae1/Next%20word%20Prediction/next-word-prediction.ipynb): In this project I took India's data from Wikipedia and trained the model with this data. The model consisted of 2 LSTM, 1 Embedding and 1 Dense layer. It took 5 text sequence and predicted the next word. While training the model obtained a loss of 0.01.
 	- [PNB stock prediction](https://github.com/SaileshP97/Machine-Learning-Projects/blob/df3dc592c6deeca42eafc9832e0db054f649b794/PNB%20stock%20prediction/Code.ipynb): In this project I tried to predict stock price of punjab natioal bank(PNB). I visualized the data and tested for trend using linear and polynomial regression. Also tested for stationarity using adfuller. Then to build a predicting model I used RNN with 3 LSTM layers. It took Open price for last 60 days and predicted the price of next day. The MSE obtained after predicting test data was 4.723246.
 	   
 	- [Titanic - Machine Learning from Disaster](https://github.com/SaileshP97/Machine-Learning-Projects/blob/6e7ad6de60a29ad3c5636c6779f42c28eb498041/Titanic%20-%20Machine%20Learning%20from%20Disaster/titanic-competition.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations. Created two model one using ANN and another using RandomForest. The data was taken from Kaggle. The task was to predict a passenger would survive or not.
