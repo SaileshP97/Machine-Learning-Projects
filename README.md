@@ -1,9 +1,10 @@
 # Machine-Learning-Projects
 This repository contains Minor Machine Learning Projects.
 This Projects are completed by me for self learning and hobby purposes.
-
+ 
 ## Contents
 -   ### Machine Learning
+	- [Spam Classifier](https://github.com/SaileshP97/Machine-Learning-Projects/blob/b2bda959fa21a9e3d95c82f833d4aa3e2b792cef/Spam%20Classifier/code.py): In this project I created spam classifier using Multinomial Naive Bayes Classifier. I used BagofWords as well as Tf-Idf for vectorising the data. In the end I got Accuracy 0.99 and f1 score 0.97.
 	- [Next Word Prediction](https://github.com/SaileshP97/Machine-Learning-Projects/blob/1df5523d7a1c930814488c7cb12382a18686aae1/Next%20word%20Prediction/next-word-prediction.ipynb): In this project I took India's data from Wikipedia and trained the model with this data. The model consisted of 2 LSTM, 1 Embedding and 1 Dense layer. It took 5 text sequence and predicted the next word. While training the model obtained a loss of 0.01.
 	- [PNB stock prediction](https://github.com/SaileshP97/Machine-Learning-Projects/blob/df3dc592c6deeca42eafc9832e0db054f649b794/PNB%20stock%20prediction/Code.ipynb): In this project I tried to predict stock price of punjab natioal bank(PNB). I visualized the data and tested for trend using linear and polynomial regression. Also tested for stationarity using adfuller. Then to build a predicting model I used RNN with 3 LSTM layers. It took Open price for last 60 days and predicted the price of next day. The MSE obtained after predicting test data was 4.723246.
 	   
